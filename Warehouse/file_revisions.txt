@@ -1,0 +1,2 @@
+6/17: PDF - Part C: added clarification note around expected optimal policy
+6/26: testing_suite_partC.py - added flag to allow users to use alternative set of symbols when the unicode characters (arrows) weren't properly displaying on their system.
